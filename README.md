@@ -4,7 +4,7 @@
  
  ##### Generate musical notes using a simple Recurrent Neural Network (RNN)
 
-In this project, I have implemented this [tutorial](https://www.tensorflow.org/tutorials/audio/music_generation) and generated musical notes using a simple recurrent neural network (RNN).
+In this project, I have generated musical notes using a simple recurrent neural network (RNN).
 
 First I trained a model using a collection of piano MIDI files from the MAESTRO dataset. Given a sequence of notes, the model learned to predict the next note in the sequence. 
 
